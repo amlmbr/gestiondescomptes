@@ -1,0 +1,5 @@
+com\example\comptes\ComptesApplication.class
+com\example\comptes\entities\TypeCompte.class
+com\example\comptes\repositories\CompteRepository.class
+com\example\comptes\controllers\CompteController.class
+com\example\comptes\entities\Compte.class
